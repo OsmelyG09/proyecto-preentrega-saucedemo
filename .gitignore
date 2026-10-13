@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -218,3 +219,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+venv/
+__pycache__/
+.pytest_cache/
+>>>>>>> 914e94d (feat: implementa suite de pruebas inicial para SauceDemo con Selenium y Pytest)
