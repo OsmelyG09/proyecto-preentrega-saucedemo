@@ -1,7 +1,7 @@
 import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
-from utils import login, get_text_element, LOCATORS
+from utils.utils import login, get_text_element, LOCATORS
 
 @pytest.fixture
 def driver():
